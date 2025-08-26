@@ -1,0 +1,1 @@
+This workshop will introduce participants to using data scraping techniques for large-scale projects. We'll use the programming language Python to download, structure, and use visualize a large dataset from a federal government website. 
